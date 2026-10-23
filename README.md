@@ -4,6 +4,6 @@ Privacy policies and other legal pages for Orcas Yetis apps, published with GitH
 
 | App | Page |
 | --- | --- |
-| Happy Pieces | `happy-pieces/privacy/` |
+| Tiny Pieces | `tiny-pieces/privacy/` |
 
 Keep each policy in sync with what the app actually does. Update the "Last updated" date when it changes.
